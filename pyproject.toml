@@ -10,6 +10,9 @@ dependencies = [
     "rdkit>=2024.3.3",
     "scikit-learn>=1.5.1",
     "matplotlib>=3.9.1",
+    "dcekit>=2.14.1",
+    "boruta>=0.3",
+    "jupyter>=1.0.0",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
