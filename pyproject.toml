@@ -7,7 +7,7 @@ authors = [
 ]
 dependencies = [
     "pandas>=2.2.2",
-    "rdkit>=2024.3.3",
+    "rdkit>=2024.3.5",
     "scikit-learn>=1.5.1",
     "matplotlib>=3.9.1",
     "dcekit>=2.14.1",

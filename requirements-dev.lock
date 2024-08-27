@@ -53,7 +53,7 @@ cycler==0.12.1
     # via matplotlib
 dcekit==2.14.1
     # via sar2
-debugpy==1.8.3
+debugpy==1.8.5
     # via ipykernel
 decorator==5.1.1
     # via ipython
@@ -255,7 +255,7 @@ qtconsole==5.5.2
     # via jupyter
 qtpy==2.4.1
     # via qtconsole
-rdkit==2024.3.3
+rdkit==2024.3.5
     # via sar2
 referencing==0.35.1
     # via jsonschema
