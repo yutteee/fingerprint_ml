@@ -255,7 +255,7 @@ qtconsole==5.5.2
     # via jupyter
 qtpy==2.4.1
     # via qtconsole
-rdkit==2024.3.5
+rdkit==2024.3.3
     # via sar2
 referencing==0.35.1
     # via jsonschema
