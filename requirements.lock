@@ -227,6 +227,8 @@ pure-eval==0.2.3
     # via stack-data
 pycparser==2.22
     # via cffi
+pydotplus==2.0.2
+    # via sar2
 pygments==2.18.0
     # via ipython
     # via jupyter-console
@@ -234,6 +236,7 @@ pygments==2.18.0
     # via qtconsole
 pyparsing==3.1.2
     # via matplotlib
+    # via pydotplus
 python-dateutil==2.9.0.post0
     # via arrow
     # via jupyter-client

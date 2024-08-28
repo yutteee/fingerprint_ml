@@ -13,6 +13,7 @@ dependencies = [
     "dcekit>=2.14.1",
     "boruta>=0.3",
     "jupyter>=1.0.0",
+    "pydotplus>=2.0.2",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
