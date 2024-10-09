@@ -43,6 +43,8 @@ def getData():
     # csvに保存
     df.to_csv('./data/EC50.csv', index=False)
 
+    print("Data acquisition is completed.")
+
     return df
 
 if __name__ == '__main__':

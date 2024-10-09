@@ -30,6 +30,8 @@ def generateFeature():
     # csvに保存
     fp_df.to_csv('./data/fingerprint.csv', index=False)
 
+    print("Feature generation is completed.")
+
     return fp_df
 
 if __name__ == '__main__':
